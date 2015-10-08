@@ -54,7 +54,7 @@ void MainWindow::on_nk_euresi_dwmatiou_clicked()
                 }
                 if (flag==0)
                 {
-                    QString name = "Δωμάτειο "+arithmos+" για "+query.value(1).toString()+" άτομα \n";
+                    QString name = "Δωμάτιο "+arithmos+" για "+query.value(1).toString()+" άτομα \n";
                     ui->nk_textBrowser->append(name);
                 }
             }

@@ -230,7 +230,7 @@ public:
         ed_imerominia->setDate(QDate(2015, 1, 1));
         ed_label_3 = new QLabel(frame_2);
         ed_label_3->setObjectName(QStringLiteral("ed_label_3"));
-        ed_label_3->setGeometry(QRect(50, 40, 101, 20));
+        ed_label_3->setGeometry(QRect(40, 40, 111, 20));
         QFont font4;
         font4.setPointSize(10);
         font4.setBold(true);
@@ -442,7 +442,7 @@ public:
         nk_label_7->setText(QApplication::translate("MainWindow", "\316\221\316\241\316\231\316\230\316\234\316\237\316\243 \316\224\316\251\316\234\316\221\316\244\316\231\316\237\316\245  :", 0));
         ed_label_1->setText(QApplication::translate("MainWindow", "   \316\225\316\240\316\237\316\240\316\244\316\225\316\231\316\221 \316\224\316\251\316\234\316\221\316\244\316\231\316\251\316\235  ", 0));
         ed_label_2->setText(QApplication::translate("MainWindow", "\316\227\316\234\316\225\316\241\316\237\316\234\316\227\316\235\316\231\316\221   :", 0));
-        ed_label_3->setText(QApplication::translate("MainWindow", "\316\232\316\221\316\244\316\225\316\233\316\225\316\231\316\234\316\225\316\235\316\221", 0));
+        ed_label_3->setText(QApplication::translate("MainWindow", "\316\232\316\221\316\244\316\225\316\231\316\233\316\227\316\234\316\234\316\225\316\235\316\221", 0));
         ed_label_5->setText(QApplication::translate("MainWindow", "\316\224\316\231\316\221\316\230\316\225\316\243\316\231\316\234\316\221", 0));
         ed_label_4->setText(QApplication::translate("MainWindow", "\316\232\316\241\316\221\316\244\316\227\316\234\316\225\316\235\316\221", 0));
         ed_anazitisi->setText(QApplication::translate("MainWindow", "\316\221\316\235\316\221\316\226\316\221\316\244\316\227\316\243\316\227", 0));

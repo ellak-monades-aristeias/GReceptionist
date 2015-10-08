@@ -651,6 +651,64 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtWidgets\qtabwidget.h \
 		..\..\5.5\msvc2010\include\QtGui\qicon.h \
 		ui_mainwindow.h \
+		..\..\5.5\msvc2010\include\QtCore\QDate \
+		..\..\5.5\msvc2010\include\QtCore\qdatetime.h \
+		..\..\5.5\msvc2010\include\QtCore\QVariant \
+		..\..\5.5\msvc2010\include\QtWidgets\QAction \
+		..\..\5.5\msvc2010\include\QtWidgets\qaction.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qactiongroup.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QApplication \
+		..\..\5.5\msvc2010\include\QtWidgets\qapplication.h \
+		..\..\5.5\msvc2010\include\QtCore\qcoreapplication.h \
+		..\..\5.5\msvc2010\include\QtCore\qeventloop.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qdesktopwidget.h \
+		..\..\5.5\msvc2010\include\QtGui\qguiapplication.h \
+		..\..\5.5\msvc2010\include\QtGui\qinputmethod.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QButtonGroup \
+		..\..\5.5\msvc2010\include\QtWidgets\qbuttongroup.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QDateEdit \
+		..\..\5.5\msvc2010\include\QtWidgets\qdatetimeedit.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qabstractspinbox.h \
+		..\..\5.5\msvc2010\include\QtGui\qvalidator.h \
+		..\..\5.5\msvc2010\include\QtCore\qregularexpression.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QFrame \
+		..\..\5.5\msvc2010\include\QtWidgets\qframe.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QHeaderView \
+		..\..\5.5\msvc2010\include\QtWidgets\qheaderview.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qabstractitemview.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qabstractscrollarea.h \
+		..\..\5.5\msvc2010\include\QtCore\qabstractitemmodel.h \
+		..\..\5.5\msvc2010\include\QtCore\qitemselectionmodel.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qabstractitemdelegate.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qstyleoption.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qslider.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qabstractslider.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qstyle.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qtabbar.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qrubberband.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QLabel \
+		..\..\5.5\msvc2010\include\QtWidgets\qlabel.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QLineEdit \
+		..\..\5.5\msvc2010\include\QtWidgets\qlineedit.h \
+		..\..\5.5\msvc2010\include\QtGui\qtextcursor.h \
+		..\..\5.5\msvc2010\include\QtGui\qtextformat.h \
+		..\..\5.5\msvc2010\include\QtGui\qpen.h \
+		..\..\5.5\msvc2010\include\QtGui\qtextoption.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QMenuBar \
+		..\..\5.5\msvc2010\include\QtWidgets\qmenubar.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qmenu.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QPushButton \
+		..\..\5.5\msvc2010\include\QtWidgets\qpushbutton.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qabstractbutton.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QStatusBar \
+		..\..\5.5\msvc2010\include\QtWidgets\qstatusbar.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QTextBrowser \
+		..\..\5.5\msvc2010\include\QtWidgets\qtextbrowser.h \
+		..\..\5.5\msvc2010\include\QtWidgets\qtextedit.h \
+		..\..\5.5\msvc2010\include\QtGui\qtextdocument.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QToolBar \
+		..\..\5.5\msvc2010\include\QtWidgets\qtoolbar.h \
+		..\..\5.5\msvc2010\include\QtWidgets\QWidget \
 		..\..\5.5\msvc2010\include\QtSql\QtSql \
 		..\..\5.5\msvc2010\include\QtSql\QtSqlDepends \
 		..\..\5.5\msvc2010\include\QtCore\QtCore \
@@ -666,7 +724,6 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtCore\qtextcodec.h \
 		..\..\5.5\msvc2010\include\QtCore\qendian.h \
 		..\..\5.5\msvc2010\include\QtCore\qlibraryinfo.h \
-		..\..\5.5\msvc2010\include\QtCore\qdatetime.h \
 		..\..\5.5\msvc2010\include\QtCore\qbuffer.h \
 		..\..\5.5\msvc2010\include\QtCore\qdir.h \
 		..\..\5.5\msvc2010\include\QtCore\qfileinfo.h \
@@ -686,10 +743,8 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtCore\qtemporarydir.h \
 		..\..\5.5\msvc2010\include\QtCore\QScopedPointer \
 		..\..\5.5\msvc2010\include\QtCore\qtemporaryfile.h \
-		..\..\5.5\msvc2010\include\QtCore\qabstractitemmodel.h \
 		..\..\5.5\msvc2010\include\QtCore\qabstractproxymodel.h \
 		..\..\5.5\msvc2010\include\QtCore\qidentityproxymodel.h \
-		..\..\5.5\msvc2010\include\QtCore\qitemselectionmodel.h \
 		..\..\5.5\msvc2010\include\QtCore\qsortfilterproxymodel.h \
 		..\..\5.5\msvc2010\include\QtCore\qstringlistmodel.h \
 		..\..\5.5\msvc2010\include\QtCore\qjsonarray.h \
@@ -697,10 +752,8 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtCore\qjsondocument.h \
 		..\..\5.5\msvc2010\include\QtCore\qjsonobject.h \
 		..\..\5.5\msvc2010\include\QtCore\qabstracteventdispatcher.h \
-		..\..\5.5\msvc2010\include\QtCore\qeventloop.h \
 		..\..\5.5\msvc2010\include\QtCore\qabstractnativeeventfilter.h \
 		..\..\5.5\msvc2010\include\QtCore\qbasictimer.h \
-		..\..\5.5\msvc2010\include\QtCore\qcoreapplication.h \
 		..\..\5.5\msvc2010\include\QtCore\qmath.h \
 		..\..\5.5\msvc2010\include\QtCore\qmetaobject.h \
 		..\..\5.5\msvc2010\include\QtCore\qmimedata.h \
@@ -754,7 +807,6 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtCore\qlinkedlist.h \
 		..\..\5.5\msvc2010\include\QtCore\qmessageauthenticationcode.h \
 		..\..\5.5\msvc2010\include\QtCore\qqueue.h \
-		..\..\5.5\msvc2010\include\QtCore\qregularexpression.h \
 		..\..\5.5\msvc2010\include\QtCore\qscopedvaluerollback.h \
 		..\..\5.5\msvc2010\include\QtCore\qstack.h \
 		..\..\5.5\msvc2010\include\QtCore\qtextboundaryfinder.h \
@@ -775,19 +827,7 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtSql\qsqlquerymodel.h \
 		..\..\5.5\msvc2010\include\QtSql\qsqlrelationaldelegate.h \
 		..\..\5.5\msvc2010\include\QtWidgets\qitemdelegate.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qabstractitemdelegate.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qstyleoption.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qabstractspinbox.h \
-		..\..\5.5\msvc2010\include\QtGui\qvalidator.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qslider.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qabstractslider.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qstyle.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qtabbar.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qrubberband.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qframe.h \
 		..\..\5.5\msvc2010\include\QtWidgets\qlistview.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qabstractitemview.h \
-		..\..\5.5\msvc2010\include\QtWidgets\qabstractscrollarea.h \
 		..\..\5.5\msvc2010\include\QtWidgets\qcombobox.h \
 		..\..\5.5\msvc2010\include\QtSql\qsqlrelationaltablemodel.h \
 		..\..\5.5\msvc2010\include\QtSql\qsqltablemodel.h \
@@ -795,8 +835,7 @@ release\mainwindow.obj: ..\greceptionist\mainwindow.cpp ../greceptionist/mainwin
 		..\..\5.5\msvc2010\include\QtWidgets\QMessageBox \
 		..\..\5.5\msvc2010\include\QtWidgets\qmessagebox.h \
 		..\..\5.5\msvc2010\include\QtWidgets\qdialog.h \
-		..\..\5.5\msvc2010\include\QtCore\QString \
-		..\..\5.5\msvc2010\include\QtCore\QDate
+		..\..\5.5\msvc2010\include\QtCore\QString
 
 release\moc_mainwindow.obj: release\moc_mainwindow.cpp 
 
