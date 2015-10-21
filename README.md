@@ -80,4 +80,13 @@ Issues
 ένα προσχέδιο της βάσης με τα βασικά πεδία και πίνακες για τη λειτουργία της
 εφαρμογής.
 
- 
+Πίνακας Παραδοτέων
+==================
+
+| **Τίτλος παραδοτέου**                                        | **URL**                                                                                                                |
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| *ΠΕ1:* *«Απαιτήσεις εφαρμογής»*                              | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE1-Apaitiseis-sustimatos>                              |
+| *ΠΕ2:*  *«Σχεδιασμός αποδοτικού περιβάλλοντος χρήστη»*       | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE2---Sxediasmos-perivallontos-xristi>                  |
+| *ΠΕ3:*  *«Υλοποίηση βάσης δεδομένων – Ολοκλήρωση εφαρμογής»* | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE3---Ylopoiisi-vasis-dedomenwn---Oloklirwsi-efarmogis> |
+| *ΠΕ4:*  *«Συγγραφή συμπληρωματικών εγχειριδίων»*             | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE4---Egxeiridio-xrisis-efarmogis>                      |
+| *ΠΕ5: «Προώθηση/ παρουσίαση εφαρμογής»*                      | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE5---Prowthisi-Parousiasi-efarmogis>                   |
