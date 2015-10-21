@@ -38,6 +38,11 @@
 «Επιχειρηματικές Εφαρμογές/ Υπηρεσίες για Μικρομεσαίες Επιχειρήσεις» και
 «Τουρισμός»).
 
+Στο αρχείο «users» υπάρχουν διαθέσιμες πληροφορίες για την αξιοποίηση της
+εφαρμογής από του ενδιαφερόμενους χρήστες, ενώ στο αρχείο «developers» υπάρχουν
+διαθέσιμες πληροφορίες για όσους ενδιαφέρονται να επεκτείνουν τις παρεχόμενες
+υπηρεσίες.
+
 ΤΕΧΝΙΚΑ ΜΕΣΑ
 ============
 
@@ -66,9 +71,7 @@ Issues
 ανάπτυξη της εφαρμογής διαχείρισης κρατήσεων επιχειρήσεων στο κλάδο του
 τουρισμού, να εγγράφουν τις παρατηρήσεις τους σχετικά με προβλήματα που
 διαπιστώνουν (είτε αφορούν τον κώδικα, είτε το interface ή τη βάση) ή προτάσεις
-βελτίωσής της. Στην καρτέλα αυτή θα εισαχθούν οι προτάσεις και τα σχόλια
-βελτίωσης που θα προκύψουν κατά την παρουσίαση της τελικής έκδοσης της
-εφαρμογής.
+βελτίωσής της.
 
 Κώδικας εφαρμογής
 =================
@@ -83,10 +86,10 @@ Issues
 Πίνακας Παραδοτέων
 ==================
 
-| **Τίτλος παραδοτέου**                                        | **URL**                                                                                                                |
-|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| *ΠΕ1:* *«Απαιτήσεις εφαρμογής»*                              | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE1-Apaitiseis-sustimatos>                              |
-| *ΠΕ2:*  *«Σχεδιασμός αποδοτικού περιβάλλοντος χρήστη»*       | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE2---Sxediasmos-perivallontos-xristi>                  |
-| *ΠΕ3:*  *«Υλοποίηση βάσης δεδομένων – Ολοκλήρωση εφαρμογής»* | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE3---Ylopoiisi-vasis-dedomenwn---Oloklirwsi-efarmogis> |
-| *ΠΕ4:*  *«Συγγραφή συμπληρωματικών εγχειριδίων»*             | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE4---Egxeiridio-xrisis-efarmogis>                      |
-| *ΠΕ5: «Προώθηση/ παρουσίαση εφαρμογής»*                      | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE5---Prowthisi-Parousiasi-efarmogis>                   |
+| **Τίτλος παραδοτέου**                                     | **URL**                                                                                                                |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| *ΠΕ1: «Απαιτήσεις εφαρμογής»*                             | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE1-Apaitiseis-sustimatos>                              |
+| *ΠΕ2: «Σχεδιασμός αποδοτικού περιβάλλοντος χρήστη»*       | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE2---Sxediasmos-perivallontos-xristi>                  |
+| *ΠΕ3: «Υλοποίηση βάσης δεδομένων – Ολοκλήρωση εφαρμογής»* | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE3---Ylopoiisi-vasis-dedomenwn---Oloklirwsi-efarmogis> |
+| *ΠΕ4: «Συγγραφή συμπληρωματικών εγχειριδίων»*             | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE4---Egxeiridio-xrisis-efarmogis>                      |
+| *ΠΕ5: «Προώθηση/ παρουσίαση εφαρμογής»*                   | <https://github.com/ellak-monades-aristeias/GReceptionist/wiki/PE5---Prowthisi-Parousiasi-efarmogis>                   |
