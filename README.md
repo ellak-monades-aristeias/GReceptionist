@@ -4,6 +4,16 @@
 Ανάπτυξη πλατφόρμας διαχείρισης κρατήσεων μικρών και μεσαίων επιχειρήσεων στον
 κλάδο του τουρισμού.
 
+Overview
+========
+«GReceptionist» is a complete reservation management and supervision package of small tourism unit, written entirely in Greek. It offers:
+- Ease of use, as it will largely determine the software's acceptance.
+- Fast recording of the available infrastructures (number of available rooms, beds etc).
+- Rapid registration of new bookings and visitor arrivals.
+- Direct supervision of the unit's current and expected occupancy.
+The implementation of the is performed using C ++ through the environment of Qt (http://www.qt.io/). The system's database is implemented using SQL, and specifically SQL Lite, which is one of the most popular solutions for off-line databases.
+
+
 ΑΝΤΙΚΕΙΜΕΝΟ ΕΡΓΟΥ
 =================
 
