@@ -11,6 +11,7 @@ Overview
 - Fast recording of the available infrastructures (number of available rooms, beds etc).
 - Rapid registration of new bookings and visitor arrivals.
 - Direct supervision of the unit's current and expected occupancy.
+
 The implementation of the is performed using C ++ through the environment of Qt (http://www.qt.io/). The system's database is implemented using SQL, and specifically SQL Lite, which is one of the most popular solutions for off-line databases.
 
 
